@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1000480520980",
+    "firebase_url": "https://srijanchat-82ae4.firebaseio.com",
+    "project_id": "srijanchat-82ae4",
+    "storage_bucket": "srijanchat-82ae4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000480520980:android:371d9b29c7131d88",
+        "android_client_info": {
+          "package_name": "com.example.amartya.srijanchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000480520980-rmpr7jfheslkvqlhm1ff5uni7cp6c9pn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amartya.srijanchat",
+            "certificate_hash": "858d5f6fd55dede4ca8661167a5d7121986bf9b7"
+          }
+        },
+        {
+          "client_id": "1000480520980-lppjm2i09e8fenmsh4sitc0lnpomfjue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk61hIjbOaPJzE1222l9W96-q7nobJOsM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000480520980-lppjm2i09e8fenmsh4sitc0lnpomfjue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
